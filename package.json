@@ -1,0 +1,24 @@
+{
+  "name": "node-sass-simple-css-importer",
+  "version": "0.1.0",
+  "main": "index.js",
+  "description": "A simple custom importer to get around the deprecation of importing .css files in LibSass.",
+  "homepage": "https://github.com/JacobDB/node-sass-simple-css-importer",
+  "bugs": {
+    "url": "https://github.com/JacobDB/node-sass-simple-css-importer",
+    "email": "jacob@bearce.me"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Jacob Bearce",
+    "email": "jacob@bearce.me",
+    "url": "https://jacob.rocks/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JacobDB/node-sass-simple-css-importer"
+  },
+  "dependencies": {
+    "glob": "^7.1.3"
+  }
+}
